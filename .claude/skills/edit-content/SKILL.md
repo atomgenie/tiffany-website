@@ -71,6 +71,7 @@ ffmpeg -i IN.mov -c:v libx264 -crf 23 -movflags +faststart -an public/projets/<s
 
 - Keep PNG/WebP when transparency matters (cut-outs, rounded corners).
 - Use lowercase file names without spaces.
+- To replace an image, use a new file name: optimized images are cached by URL for a year (server volume and browsers), so the old version would keep showing.
 - Large videos are better on YouTube (`youtube` field).
 - Delete files that are no longer referenced.
 

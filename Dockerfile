@@ -25,6 +25,9 @@ RUN addgroup -S nodejs && adduser -S nextjs -G nodejs
 COPY --from=builder --chown=nextjs:nodejs /app/.next/standalone ./
 COPY --from=builder --chown=nextjs:nodejs /app/.next/static ./.next/static
 COPY --from=builder --chown=nextjs:nodejs /app/public ./public
+COPY --chown=nextjs:nodejs scripts/warm-images.mjs ./scripts/
+# Optimized images (next/image) are cached here; compose.yaml mounts a volume so the cache survives rebuilds.
+RUN mkdir -p .next/cache && chown nextjs:nodejs .next/cache
 USER nextjs
 EXPOSE 3000
 CMD ["node", "server.js"]

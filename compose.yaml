@@ -7,3 +7,9 @@ services:
     restart: unless-stopped
     ports:
       - "3000:3000"
+    volumes:
+      # Keeps optimized images between deploys: generating one takes seconds, serving it from cache is instant.
+      - image-cache:/app/.next/cache
+
+volumes:
+  image-cache:

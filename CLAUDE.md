@@ -34,6 +34,7 @@ Site language is French: keep user-facing text in French.
 - `cacheComponents: true`, `partialPrefetching: false`: all routes are static; with prefetching on, awaiting `params` outside `<Suspense>` warns.
 - `<html>`/`<body>` have `suppressHydrationWarning` for browser-extension attributes (LanguageTool, Grammarly). Don't remove it.
 - Images go through `next/image` (sharp is bundled in the standalone output); pass real `width`/`height` from the JSON.
+  Served as WebP at quality 60 (`qualities` in `next.config.ts`). The first request for each image/width takes ~0.5 s to encode; after that it is served from `.next/cache/images`, a Docker volume (`image-cache`) that survives rebuilds. The cache is keyed by URL, so a replaced image needs a new file name.
 - Cover images morph from the home strip to the project page with React `<ViewTransition name="cover-<slug>">`; names must stay unique per page.
 
 ## Commands
@@ -42,4 +43,5 @@ Site language is French: keep user-facing text in French.
 npm run dev                       # dev server
 npm run lint && npm run build     # must both pass before committing
 docker compose up -d --build      # production
+docker compose exec web node scripts/warm-images.mjs   # after deploy: pre-generate optimized images
 ```
