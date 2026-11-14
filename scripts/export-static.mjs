@@ -2,6 +2,7 @@
 // 1. Generates every resized WebP the pages reference (/_img/<src>.<width>.webp, see src/lib/image-loader.ts).
 //    Encoded files are kept in .next/cache/static-images, so a rebuild only encodes new or changed images.
 // 2. Writes an HTML redirect page for each old project slug (src/content/renamed-projects.json).
+// 3. Fails if a file is over 25 MiB, the per-file limit of Cloudflare Pages.
 
 import { copyFile, mkdir, readdir, readFile, stat, writeFile } from "node:fs/promises";
 import { availableParallelism } from "node:os";
@@ -69,3 +70,15 @@ for (const [from, to] of Object.entries(renamedProjects)) {
   );
 }
 console.log(`${Object.keys(renamedProjects).length} redirects`);
+
+// 3. Per-file size limit of the static host
+const maxSize = 25 * 1024 * 1024;
+const tooBig = [];
+for (const file of await readdir(out, { recursive: true })) {
+  const { size } = await stat(path.join(out, file));
+  if (size > maxSize) tooBig.push(`${file} (${(size / 1024 / 1024).toFixed(1)} MiB)`);
+}
+if (tooBig.length) {
+  console.error(`Over 25 MiB, Cloudflare Pages will reject:\n  ${tooBig.join("\n  ")}\nCompress them (see the edit-content skill).`);
+  process.exitCode = 1;
+}

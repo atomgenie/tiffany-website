@@ -73,11 +73,20 @@ ffmpeg -i IN.mov -c:v libx264 -crf 23 -movflags +faststart -an public/projets/<s
 - Use lowercase file names without spaces.
 - To replace an image, use a new file name: optimized images are cached by URL for a year (server volume and browsers), so the old version would keep showing.
 - Large videos are better on YouTube (`youtube` field).
+- Every file must stay under 25 MiB (Cloudflare Pages limit; `npm run build:static` fails otherwise). Compress big PDFs with Ghostscript, images at 200 dpi (looks identical on screen, usually 3–5× smaller), then update `size`:
+
+  ```bash
+  gs -q -dNOPAUSE -dBATCH -dSAFER -sDEVICE=pdfwrite -dCompatibilityLevel=1.6 -dDetectDuplicateImages=true \
+    -dDownsampleColorImages=true -dColorImageResolution=200 -dColorImageDownsampleThreshold=1.1 \
+    -dDownsampleGrayImages=true -dGrayImageResolution=200 -dGrayImageDownsampleThreshold=1.1 \
+    -dAutoFilterColorImages=false -dColorImageFilter=/DCTEncode -dAutoFilterGrayImages=false -dGrayImageFilter=/DCTEncode \
+    -dJPEGQ=85 -sOutputFile=out.pdf in.pdf
+  ```
 - Delete files that are no longer referenced.
 
 ## New CV or PDF portfolio
 
-Copy the new file into `public/documents/`, then update `documents` in `src/lib/site.ts` (href, label and size). Delete the old file.
+Copy the new file into `public/documents/` (compressed under 25 MiB, see Adding media), then update `documents` in `src/lib/site.ts` (href, label and size). Delete the old file.
 
 ## A new block type
 
