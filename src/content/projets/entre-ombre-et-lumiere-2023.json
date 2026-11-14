@@ -16,7 +16,6 @@
     {"type": "text"},
     {
       "type": "pdf",
-      "size": "2,6 Mo",
       "title": "Poster ombre et lumiere.pdf",
       "display": {"width": 708, "height": 930},
       "media": {"src": "/projets/entre-ombre-et-lumiere-2023/poster-ombre-et-lumiere.pdf"}

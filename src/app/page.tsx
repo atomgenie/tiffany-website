@@ -103,10 +103,10 @@ export default function Home() {
           </dl>
           <div className="doc-links">
             <a className="pill" href={documents.cv.href} target="_blank" rel="noopener noreferrer">
-              {documents.cv.label} ↓ <small>PDF, {documents.cv.size}</small>
+              {documents.cv.label} ↓ <small>PDF</small>
             </a>
             <a className="pill" href={documents.portfolio.href} target="_blank" rel="noopener noreferrer">
-              {documents.portfolio.label} ↓ <small>PDF, {documents.portfolio.size}</small>
+              {documents.portfolio.label} ↓ <small>PDF</small>
             </a>
           </div>
         </div>

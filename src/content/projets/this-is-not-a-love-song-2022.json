@@ -170,7 +170,6 @@
     {"type": "divider"},
     {
       "type": "pdf",
-      "size": "11,8 Mo",
       "title": "rendu festival.pdf",
       "display": {"width": 708, "height": 430},
       "media": {"src": "/projets/this-is-not-a-love-song-2022/rendu-festival.pdf"}

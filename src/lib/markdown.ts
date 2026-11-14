@@ -98,7 +98,7 @@ export function homeMarkdown(): string {
     ...contacts.map((c) => `- ${c.label} : ${c.href.startsWith("http") ? `[${c.value}](${c.href})` : c.value}`),
     "",
     `- [${documents.cv.label} (PDF)](${siteUrl}${documents.cv.href})`,
-    `- [${documents.portfolio.label} (PDF, ${documents.portfolio.size})](${siteUrl}${documents.portfolio.href})`,
+    `- [${documents.portfolio.label} (PDF)](${siteUrl}${documents.portfolio.href})`,
   ].join("\n");
 }
 

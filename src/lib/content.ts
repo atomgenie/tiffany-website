@@ -24,7 +24,7 @@ export type Block = {
   color?: string;
   rich?: RichText;
   children?: Block[];
-  /** File size shown next to PDFs and files ("26,1 Mo"); "large" on a quote. */
+  /** "large" on a quote. */
   size?: string;
   start?: number;
   icon?: string;

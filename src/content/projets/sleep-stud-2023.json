@@ -57,14 +57,12 @@
     },
     {
       "type": "pdf",
-      "size": "14,2 Mo",
       "title": "affiche sleep stud'1.pdf",
       "display": {"width": 432, "height": 590},
       "media": {"src": "/projets/sleep-stud-2023/affiche-sleep-stud1.pdf"}
     },
     {
       "type": "pdf",
-      "size": "15,2 Mo",
       "title": "affiche sleep stud'2.pdf",
       "display": {"width": 432, "height": 595},
       "media": {"src": "/projets/sleep-stud-2023/affiche-sleep-stud2.pdf"}
@@ -82,7 +80,6 @@
     {"type": "text", "rich": [["Mémoire du projet de fin de cycle."]]},
     {
       "type": "pdf",
-      "size": "3,8 Mo",
       "title": "TranTiffanyMemoireSeminaireAtelier2022-23.pdf",
       "display": {"width": 528, "height": 539},
       "media": {"src": "/projets/sleep-stud-2023/trantiffanymemoireseminaireatelier2022-23.pdf"}

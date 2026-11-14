@@ -273,7 +273,6 @@
     {"type": "sub_header", "rich": [["PDF"]]},
     {
       "type": "file",
-      "size": "18,1 Mo",
       "title": "Tiffany_Alexane_Quentin_Restitution_Finale.pdf",
       "media": {"src": "/projets/museum/tiffany-alexane-quentin-restitution-finale.pdf"}
     },

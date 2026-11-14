@@ -54,8 +54,8 @@ Every block has a `type`. `rich` and `caption` are rich text: `[["plain "], ["ke
 | `column_list` | `children`: blocks of type `column` with `ratio` (shares summing to 1) and `children` |
 | `image` | `media` {src, width, height}, optional `caption`, `display.width` in px (else full width) |
 | `video` | `youtube` (video id) or `media.src` (MP4); `display` {width, height} sets the ratio; `title` |
-| `pdf` | `media.src`, `title`, `size` ("26,1 Mo"), `display.height` (viewer height) |
-| `file` | `media.src`, `title`, `size` (a download link) |
+| `pdf` | `media.src`, `title`, `display.height` (viewer height) |
+| `file` | `media.src`, `title` (a download link) |
 
 Colors (`color` on a block, or the `h` decoration): `gray`, `brown`, `orange`, `yellow`, `green`, `teal`, `blue`, `purple`, `pink`, `red`, each also as `<color>_background`.
 
@@ -73,7 +73,7 @@ ffmpeg -i IN.mov -c:v libx264 -crf 23 -movflags +faststart -an public/projets/<s
 - Use lowercase file names without spaces.
 - To replace an image, use a new file name: optimized images are cached by URL for a year (server volume and browsers), so the old version would keep showing.
 - Large videos are better on YouTube (`youtube` field).
-- Every file must stay under 25 MiB (Cloudflare Pages limit; `npm run build:static` fails otherwise). Compress big PDFs with Ghostscript, images at 200 dpi (looks identical on screen, usually 3–5× smaller), then update `size`:
+- Every file must stay under 25 MiB (Cloudflare Pages limit; `npm run build:static` fails otherwise). Compress big PDFs with Ghostscript, images at 200 dpi (looks identical on screen, usually 3–5× smaller):
 
   ```bash
   gs -q -dNOPAUSE -dBATCH -dSAFER -sDEVICE=pdfwrite -dCompatibilityLevel=1.6 -dDetectDuplicateImages=true \
@@ -86,7 +86,7 @@ ffmpeg -i IN.mov -c:v libx264 -crf 23 -movflags +faststart -an public/projets/<s
 
 ## New CV or PDF portfolio
 
-Copy the new file into `public/documents/` (compressed under 25 MiB, see Adding media), then update `documents` in `src/lib/site.ts` (href, label and size). Delete the old file.
+Copy the new file into `public/documents/` (compressed under 25 MiB, see Adding media), then update `documents` in `src/lib/site.ts` (href and label). Delete the old file.
 
 ## A new block type
 

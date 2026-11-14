@@ -1120,13 +1120,6 @@ a.pill:hover {
   white-space: nowrap;
 }
 
-.block-file-size {
-  flex: none;
-  color: var(--muted);
-  font-size: 12px;
-  font-weight: 400;
-}
-
 /* ---------- responsive */
 
 @media (max-width: 900px) {

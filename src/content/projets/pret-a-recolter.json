@@ -161,7 +161,6 @@
     {"type": "sub_header", "rich": [["PDF"]]},
     {
       "type": "pdf",
-      "size": "5,8 Mo",
       "title": "dossier communication.pdf",
       "display": {"width": 708, "height": 499},
       "media": {"src": "/projets/pret-a-recolter/dossier-communication.pdf"}

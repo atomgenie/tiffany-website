@@ -89,7 +89,6 @@ function PdfBlock({ block }: { block: Block }) {
         <a className="block-pdf-link" href={src} target="_blank" rel="noopener noreferrer">
           <PaperclipIcon />
           <span>{name}</span>
-          {block.size ? <span className="block-file-size">{block.size}</span> : null}
         </a>
       </div>
     </Figure>
@@ -101,7 +100,6 @@ function FileBlock({ block }: { block: Block }) {
     <a className="block-file" href={block.media?.src} target="_blank" rel="noopener noreferrer">
       <PaperclipIcon />
       <span className="block-file-title">{block.title}</span>
-      {block.size ? <span className="block-file-size">{block.size}</span> : null}
     </a>
   );
 }

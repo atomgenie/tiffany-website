@@ -14,8 +14,8 @@ export const shareImage: Media = { src: "/images/cover.jpg", width: 2400, height
 
 /** Latest CV and PDF portfolio, in public/documents/. When Tiffany sends new versions, swap the files and these entries. */
 export const documents = {
-  cv: { href: "/documents/tran-tiffany-cv-2026.pdf", label: "CV 2026", size: "84 Ko" },
-  portfolio: { href: "/documents/tran-tiffany-portfolio-2026.pdf", label: "Portfolio 2026", size: "12 Mo" },
+  cv: { href: "/documents/tran-tiffany-cv-2026.pdf", label: "CV 2026" },
+  portfolio: { href: "/documents/tran-tiffany-portfolio-2026.pdf", label: "Portfolio 2026" },
 };
 
 export type Contact = { label: string; value: string; href: string };

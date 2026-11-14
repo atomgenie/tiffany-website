@@ -162,7 +162,6 @@
     {"type": "divider"},
     {
       "type": "pdf",
-      "size": "7,3 Mo",
       "title": "TranTiffany-GuilleminaultThomas-DransartMaé-PoudrasClaire.pdf",
       "display": {"width": 708, "height": 831, "align": "center"},
       "media": {
