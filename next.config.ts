@@ -1,18 +1,19 @@
 import type { NextConfig } from "next";
+/** Old URLs (first version of the site) of projects renamed after the 2026 portfolio: old slug → new slug. */
+import renamedProjects from "./src/content/renamed-projects.json";
 
-/** Old URLs (first version of the site) of projects renamed after the 2026 portfolio. */
-const renamedProjects: Record<string, string> = {
-  "memoire-dsaa-2025": "le-gout-du-vietnam",
-  "pret-a-recolter-2023": "pret-a-recolter",
-  "stage-agence-kascen-2024": "trainworld",
-  "museum-toulouse-2024": "museum",
-  "textiles-de-foire-2023": "textile-de-foire",
-};
+/**
+ * `npm run build:static` sets STATIC_EXPORT=1: plain HTML/CSS/JS in out/, no Node server.
+ * Images are resized at build time by scripts/export-static.mjs (see src/lib/image-loader.ts),
+ * which also writes HTML redirects for the old slugs (config redirects need a server).
+ */
+const staticExport = process.env.STATIC_EXPORT === "1";
 
 const nextConfig: NextConfig = {
   /* Self-hosted: `next build` emits a minimal Node server in .next/standalone (see Dockerfile). */
-  output: "standalone",
-  cacheComponents: true,
+  output: staticExport ? "export" : "standalone",
+  // Static export can't use Cache Components (partial prerendering); every page is fully static anyway.
+  cacheComponents: !staticExport,
   partialPrefetching: false,
   // Silence the lockfile-detection warning when a parent folder has its own package-lock.json.
   turbopack: { root: process.cwd() },
@@ -27,14 +28,17 @@ const nextConfig: NextConfig = {
     // Optimized files are cached by URL in .next/cache/images (a Docker volume, see compose.yaml):
     // replacing an image under the same file name keeps serving the old one, so give it a new name.
     minimumCacheTTL: 60 * 60 * 24 * 365,
+    ...(staticExport && { loader: "custom", loaderFile: "./src/lib/image-loader.ts" }),
   },
-  async redirects() {
-    return Object.entries(renamedProjects).map(([from, to]) => ({
-      source: `/projets/${from}`,
-      destination: `/projets/${to}`,
-      permanent: true,
-    }));
-  },
+  ...(!staticExport && { redirects }),
 };
+
+async function redirects() {
+  return Object.entries(renamedProjects).map(([from, to]) => ({
+    source: `/projets/${from}`,
+    destination: `/projets/${to}`,
+    permanent: true,
+  }));
+}
 
 export default nextConfig;

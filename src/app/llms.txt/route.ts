@@ -2,6 +2,12 @@ import { projectSummary, projectUrl } from "@/lib/markdown";
 import { projects } from "@/lib/projects";
 import { contacts, documents, siteDescription, siteUrl } from "@/lib/site";
 
+// Marks the handler static for `npm run build:static` (output: "export"), which rejects unmarked GET handlers.
+// `dynamic = "force-static"` would do it, but Cache Components forbids it in the normal build.
+export function generateStaticParams() {
+  return [{}];
+}
+
 /** llms.txt (https://llmstxt.org): a Markdown index of the site for language models. */
 export function GET() {
   const body = [

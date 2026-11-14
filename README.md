@@ -53,4 +53,21 @@ cp -r public .next/standalone/ && cp -r .next/static .next/standalone/.next/
 PORT=3000 HOSTNAME=0.0.0.0 node .next/standalone/server.js
 ```
 
-Put a reverse proxy (Caddy, nginx, Traefik…) in front for HTTPS. Images are resized and converted to AVIF/WebP on demand by the built-in Next.js image optimizer; resized versions are cached in `.next/cache/images`.
+Put a reverse proxy (Caddy, nginx, Traefik…) in front for HTTPS. Images are resized and converted to WebP on demand by the built-in Next.js image optimizer; resized versions are cached in `.next/cache/images`.
+
+### Static files (any web host, no Node)
+
+```bash
+SITE_URL=https://tiffany.tamtanguy.fr npm run build:static
+```
+
+This writes a complete static site to `out/`: HTML pages, `llms.txt`, media, and every image pre-resized to WebP under `out/_img/` (the first build encodes ~1,500 variants in about 2 minutes; later builds reuse `.next/cache/static-images` and only encode new or changed images). Old project URLs become small HTML redirect pages.
+
+Upload `out/` to any static host. Project pages are `projets/<slug>.html`, so the server must serve `/projets/<slug>` from that file (GitHub Pages, Netlify, Cloudflare Pages and Caddy's `try_files` do; for nginx):
+
+```nginx
+location / {
+  try_files $uri $uri.html $uri/ =404;
+}
+error_page 404 /404.html;
+```

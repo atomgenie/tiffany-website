@@ -13,7 +13,7 @@ The site is the source of truth: there is no CMS or import. Content lives in the
 | Project order (sets the 01, 02… numbers) | the import list in `src/lib/projects.ts` |
 | Project media | `public/projets/<slug>/`, referenced as `/projets/<slug>/<file>` |
 | Intro, contacts, portrait, share image, CV / portfolio PDFs | `src/lib/site.ts` (files in `public/images/`, `public/documents/`) |
-| Redirects for renamed slugs | `renamedProjects` in `next.config.ts` |
+| Redirects for renamed slugs | `src/content/renamed-projects.json` (old slug → new slug) |
 
 Keep all text in French. Bold (`["b"]`) shows as a green keyword, as in her PDFs: use it for a few key phrases per project.
 
@@ -33,7 +33,7 @@ Keep all text in French. Bold (`["b"]`) shows as a green keyword, as in her PDFs
 }
 ```
 
-- `slug` must match the file name. It is the URL `/projets/<slug>`, so after renaming one, add the old slug to `renamedProjects`.
+- `slug` must match the file name. It is the URL `/projets/<slug>`, so after renaming one, add the old slug to `src/content/renamed-projects.json`.
 - Optional fields: `subtitle`, `year`, `context`, `cover`, `coverFocus` (vertical crop focus, 0 = top, 1 = bottom; default 0.5) and `links` (outlined pills under the title).
 - No `.` after `name`: the page adds the full stop.
 - New project: create the JSON and the `public/projets/<slug>/` folder, then add the import to `src/lib/projects.ts` in the right position.
