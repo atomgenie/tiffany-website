@@ -1,0 +1,84 @@
+{
+  "slug": "abondance-2022",
+  "name": "Abondance",
+  "year": 2022,
+  "cover": {"src": "/projets/abondance-2022/logo-final.jpg", "width": 2400, "height": 1696},
+  "coverFocus": 0.501,
+  "blocks": [
+    {
+      "type": "text",
+      "rich": [["Projet de création d’un logo et de sa charte graphique pour une exposition contemporaine du nom de «"], ["Abondance", [["b"]]], ["». \nExposition sur le thème de l’eau et du débordement."]]
+    },
+    {"type": "text"},
+    {
+      "type": "image",
+      "display": {"width": 624},
+      "media": {"src": "/projets/abondance-2022/capture-dcran-2022-03-11-11-24-46.png", "width": 862, "height": 1224}
+    },
+    {"type": "divider"},
+    {
+      "type": "image",
+      "display": {"width": 6000, "pageWidth": true},
+      "media": {"src": "/projets/abondance-2022/abondance.jpg", "width": 2400, "height": 1600}
+    },
+    {"type": "divider"},
+    {"type": "text", "rich": [["Déclinaisons print (magazine, affiche, billets)"]]},
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5625,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 384, "pageWidth": true},
+              "media": {"src": "/projets/abondance-2022/billet.jpg", "width": 2400, "height": 1691}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.4375,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 336, "pageWidth": true},
+              "media": {"src": "/projets/abondance-2022/mock-up-catalogue.png", "width": 2400, "height": 1800}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "display": {"width": 384},
+      "media": {"src": "/projets/abondance-2022/capture-dcran-2022-03-05-21-22-35.png", "width": 2142, "height": 1512}
+    },
+    {
+      "type": "image",
+      "display": {"width": 384},
+      "media": {"src": "/projets/abondance-2022/capture-dcran-2022-03-05-21-24-07.png", "width": 2142, "height": 1512}
+    },
+    {
+      "type": "image",
+      "display": {"width": 384},
+      "media": {"src": "/projets/abondance-2022/capture-dcran-2022-03-05-21-28-15.png", "width": 2142, "height": 1512}
+    },
+    {
+      "type": "image",
+      "display": {"width": 384},
+      "media": {"src": "/projets/abondance-2022/capture-dcran-2022-03-11-11-27-32.png", "width": 1736, "height": 1224}
+    },
+    {"type": "text"},
+    {"type": "divider"},
+    {"type": "sub_sub_header", "rich": [["PDF"]]},
+    {
+      "type": "pdf",
+      "size": "9,4 Mo",
+      "title": "TRAN - TIFFANY - CHARTE GRAPHIQUE-MacBook Pro de Tiffany.pdf",
+      "display": {"width": 708, "height": 411.0000305175781},
+      "media": {"src": "/projets/abondance-2022/tran-tiffany-charte-graphique-macbook-pro-de-tiffany.pdf"}
+    }
+  ]
+}

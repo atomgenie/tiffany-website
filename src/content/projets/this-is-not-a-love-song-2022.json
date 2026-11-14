@@ -1,0 +1,181 @@
+{
+  "slug": "this-is-not-a-love-song-2022",
+  "name": "This is not a love song",
+  "year": 2022,
+  "cover": {"src": "/projets/this-is-not-a-love-song-2022/info-concert-fond.png", "width": 1280, "height": 1464},
+  "coverFocus": 0,
+  "blocks": [
+    {
+      "type": "text",
+      "rich": [["Conception de l’affiche et de l’identité visuelle de l’édition 2022 du festival « This is Not a Love Song » sur le thème let your freak frag fly. Ce festival célèbre la scène musicale indépendante avec une programmation riche et variée, mêlant artistes émergents et figures incontournables, dans une atmosphère décontractée et passionnée."]]
+    },
+    {"type": "text"},
+    {
+      "type": "image",
+      "display": {"width": 528},
+      "media": {
+        "src": "/projets/this-is-not-a-love-song-2022/capture-dcran-2022-12-27-14-54-10.png",
+        "width": 1180,
+        "height": 1776
+      }
+    },
+    {"type": "text"},
+    {
+      "type": "text",
+      "rich": [["L’affiche évoque une sensation de légèreté avec des personnages en apesanteur, prenant leur envol. Cette dynamique visuelle s’inscrit dans la continuité des précédentes éditions, où l’ambiance calme et la présence d’animaux et de la nature joue un rôle récurrent dans l’identité graphique du festival."]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 336, "height": 699, "pageWidth": true},
+              "media": {
+                "src": "/projets/this-is-not-a-love-song-2022/rtemagicc-tinals-affiche-2016-01.png",
+                "width": 500,
+                "height": 699
+              }
+            },
+            {
+              "type": "callout",
+              "color": "orange_background",
+              "icon": "💡",
+              "children": [{"type": "text", "rich": [["2016"]]}]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.3333333333333334,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 240, "pageWidth": true},
+              "media": {
+                "src": "/projets/this-is-not-a-love-song-2022/this-is-not-a-love-song-festival-2017-jpg.webp",
+                "width": 847,
+                "height": 1200
+              }
+            },
+            {
+              "type": "callout",
+              "color": "orange_background",
+              "icon": "💡",
+              "children": [{"type": "text", "rich": [["2017"]]}]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.3333333333333334,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 192, "pageWidth": true},
+              "media": {
+                "src": "/projets/this-is-not-a-love-song-2022/tinals3-01-1600-c.jpg",
+                "width": 1600,
+                "height": 2261
+              }
+            },
+            {
+              "type": "callout",
+              "color": "orange_background",
+              "icon": "💡",
+              "children": [{"type": "text", "rich": [["2019"]]}]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {"type": "column", "ratio": 0.1875, "children": [{"type": "text", "rich": [["Inspirations :"]]}]},
+        {
+          "type": "column",
+          "ratio": 0.8125,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 672, "height": 320, "pageWidth": true},
+              "media": {
+                "src": "/projets/this-is-not-a-love-song-2022/850e2ce7-0bd5-4346-83d1-f91cf3f4150d.png",
+                "width": 2000,
+                "height": 1799
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "text"},
+    {"type": "divider"},
+    {"type": "text", "rich": [["Déclinaisons print, web et écocup du visuel."]]},
+    {
+      "type": "image",
+      "display": {"width": 480},
+      "media": {"src": "/projets/this-is-not-a-love-song-2022/flyer-mock-up-2.png", "width": 2400, "height": 1600}
+    },
+    {
+      "type": "image",
+      "display": {"width": 480},
+      "media": {"src": "/projets/this-is-not-a-love-song-2022/info-concert-mock-up.png", "width": 2400, "height": 1920}
+    },
+    {
+      "type": "image",
+      "display": {"width": 480},
+      "media": {"src": "/projets/this-is-not-a-love-song-2022/facebook-mock-up.png", "width": 2400, "height": 1737}
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 336},
+              "media": {
+                "src": "/projets/this-is-not-a-love-song-2022/eco-cup-mock-up.png",
+                "width": 1958,
+                "height": 2400
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 336},
+              "media": {
+                "src": "/projets/this-is-not-a-love-song-2022/eco-cop-2-mock-up.png",
+                "width": 1958,
+                "height": 2400
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "sub_sub_header", "rich": [["Le PDF"]]},
+    {"type": "divider"},
+    {
+      "type": "pdf",
+      "size": "31,6 Mo",
+      "title": "rendu festival.pdf",
+      "display": {"width": 708, "height": 430},
+      "media": {"src": "/projets/this-is-not-a-love-song-2022/rendu-festival.pdf"}
+    },
+    {"type": "divider"},
+    {"type": "text"}
+  ]
+}

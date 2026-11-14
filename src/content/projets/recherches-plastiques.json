@@ -1,0 +1,165 @@
+{
+  "slug": "recherches-plastiques",
+  "name": "Recherches plastiques",
+  "subtitle": "Néo corail et Port’éclat",
+  "cover": {"src": "/projets/recherches-plastiques/p32-2.jpg", "width": 1277, "height": 813},
+  "coverFocus": 0.55,
+  "blocks": [
+    {"type": "sub_header", "rich": [["Néo corail"]]},
+    {
+      "type": "text",
+      "rich": [["Ce projet a pour objectif de proposer une maquette imprimée en 3D d’un "], ["squelette de néo corail", [["b"]]], [" pour une impression 3D béton de récif corallien artificiel."]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.6,
+          "children": [
+            {
+              "type": "image",
+              "caption": [["Interprétation d’un récif corallien en céramique."]],
+              "media": {"src": "/projets/recherches-plastiques/p31-1.jpg", "width": 2087, "height": 2227}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.4,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/recherches-plastiques/p31-5.webp", "width": 1023, "height": 1424}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "media": {"src": "/projets/recherches-plastiques/p31-2.webp", "width": 1376, "height": 860}
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "caption": [["Seaboost et XtreeE"]],
+              "media": {"src": "/projets/recherches-plastiques/p31-6.jpg", "width": 826, "height": 517}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/recherches-plastiques/p31-4.webp", "width": 929, "height": 695}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "caption": [["Structure modulable."]],
+              "media": {"src": "/projets/recherches-plastiques/p31-3.webp", "width": 648, "height": 522}
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "divider"},
+    {"type": "sub_header", "rich": [["Port’éclat"]]},
+    {
+      "type": "text",
+      "rich": [["« Port’éclat » est un "], ["porte-bijoux modulable", [["b"]]], [" destiné aux boutiques de bijoux. Il permet d’exposer et de mettre en valeur les bijoux de leurs collections, mais aussi de manipuler les miroirs à main. Il combine fonctionnalité, modularité et esthétique."]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.55,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/recherches-plastiques/p32-1.jpg", "width": 1577, "height": 1623}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.45,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/recherches-plastiques/p32-3.jpg", "width": 1268, "height": 1516}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "media": {"src": "/projets/recherches-plastiques/p32-2.jpg", "width": 1277, "height": 813}
+    },
+    {
+      "type": "text",
+      "rich": [["Démarche de valorisation des "], ["rebuts de matériaux", [["b"]]], [", avec l’utilisation de chutes de bois et de miroirs."]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.25,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/recherches-plastiques/p32-6.webp", "width": 783, "height": 612}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.25,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/recherches-plastiques/p32-7.webp", "width": 791, "height": 938}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.25,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/recherches-plastiques/p32-5.webp", "width": 787, "height": 991}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.25,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/recherches-plastiques/p32-4.webp", "width": 787, "height": 729}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

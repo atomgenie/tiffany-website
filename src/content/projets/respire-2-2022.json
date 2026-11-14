@@ -1,0 +1,93 @@
+{
+  "slug": "respire-2-2022",
+  "name": "Respire 2",
+  "year": 2022,
+  "cover": {"src": "/projets/respire-2-2022/capture-dcran-2022-09-23-14-11-20.png", "width": 2400, "height": 1348},
+  "coverFocus": 0.065,
+  "links": [{"label": "Voir la vidéo", "href": "https://youtu.be/_8WlpPd11DA"}],
+  "blocks": [
+    {
+      "type": "text",
+      "rich": [["Cette deuxième video met en valeur la respiration grâce aux sons et à la répétition «"], ["Respire 2", [["b"]]], ["». Musique créée à partir des enregistrements des instruments lorsque l’on respire avec."]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 384},
+              "media": {
+                "src": "/projets/respire-2-2022/capture-dcran-2022-09-23-14-11-03.png",
+                "width": 2400,
+                "height": 1348
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 384},
+              "media": {
+                "src": "/projets/respire-2-2022/capture-dcran-2022-09-23-14-11-20-2.png",
+                "width": 2400,
+                "height": 1348
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "display": {"width": 672, "pageWidth": true},
+      "media": {"src": "/projets/respire-2-2022/capture-dcran-2022-09-23-14-14-08.png", "width": 2400, "height": 1348}
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 384},
+              "media": {
+                "src": "/projets/respire-2-2022/capture-dcran-2022-09-23-14-12-18.png",
+                "width": 2400,
+                "height": 1348
+              }
+            },
+            {"type": "text"}
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 384},
+              "media": {
+                "src": "/projets/respire-2-2022/capture-dcran-2022-09-23-14-13-21.png",
+                "width": 2400,
+                "height": 1348
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "divider"},
+    {"type": "sub_header", "rich": [["VIDÉO"]]},
+    {"type": "video", "display": {"width": 854, "pageWidth": true}, "youtube": "_8WlpPd11DA"}
+  ]
+}

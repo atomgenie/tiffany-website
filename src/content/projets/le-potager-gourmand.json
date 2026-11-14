@@ -1,0 +1,118 @@
+{
+  "slug": "le-potager-gourmand",
+  "name": "Le potager gourmand",
+  "subtitle": "graphisme",
+  "cover": {"src": "/projets/le-potager-gourmand/p13-1.jpg", "width": 2400, "height": 1699},
+  "coverFocus": 0.6,
+  "blocks": [
+    {
+      "type": "text",
+      "rich": [["Ce projet est destiné aux enfants de maternelle, une période clé dans le développement du goût, de la curiosité et de l’autonomie des tout-petits. L’objectif est de proposer une expérience conviviale entre parent(s) et enfant(s), autour de la découverte et de la dégustation des légumes. Le design intervient ici comme un médiateur, en proposant une activité à la fois "], ["ludique, sensorielle et éducative", [["b"]]], ["."]]
+    },
+    {
+      "type": "quote",
+      "rich": [["Comment le design de médiation peut-il favoriser une alimentation saine auprès des enfants de 3 à 6 ans ?"]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.6,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-potager-gourmand/p11-1.jpg", "width": 1566, "height": 2400}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.4,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-potager-gourmand/p11-3.webp", "width": 611, "height": 870}
+            },
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-potager-gourmand/p11-2.jpg", "width": 610, "height": 869}
+            },
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-potager-gourmand/p11-4.jpg", "width": 605, "height": 865}
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "divider"},
+    {
+      "type": "text",
+      "rich": [["Nous avons eu l’opportunité de collaborer avec "], ["l’imprimerie Morassuti", [["b"]]], [" (SCOP à Saint-Étienne) pour réaliser les maquettes et le prototype du jeu."]]
+    },
+    {
+      "type": "image",
+      "media": {"src": "/projets/le-potager-gourmand/p12-9.webp", "width": 995, "height": 1241}
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-potager-gourmand/p12-7.webp", "width": 772, "height": 1006}
+            },
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-potager-gourmand/p12-8.webp", "width": 783, "height": 1088}
+            },
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-potager-gourmand/p12-6.webp", "width": 777, "height": 610}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-potager-gourmand/p12-1.webp", "width": 777, "height": 1132}
+            },
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-potager-gourmand/p12-2.webp", "width": 775, "height": 1080}
+            },
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-potager-gourmand/p12-10.jpg", "width": 779, "height": 327}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-potager-gourmand/p12-3.jpg", "width": 789, "height": 1081}
+            },
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-potager-gourmand/p12-4.jpg", "width": 789, "height": 1081}
+            },
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-potager-gourmand/p12-5.jpg", "width": 787, "height": 722}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

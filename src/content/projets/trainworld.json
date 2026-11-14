@@ -1,0 +1,620 @@
+{
+  "slug": "trainworld",
+  "name": "Trainworld",
+  "subtitle": "design de médiation (stage Kascen)",
+  "year": 2024,
+  "context": "Kascen, Bruxelles",
+  "cover": {"src": "/projets/trainworld/240918-dm1t-01073.jpg", "width": 1400, "height": 1099},
+  "coverFocus": 0.315,
+  "blocks": [
+    {
+      "type": "text",
+      "rich": [["Ce projet est une exposition temporaire qui se situe à l’intérieur même de l’exposition permanente Trainworld de la SNCB. Elle est intitulée «Dessine-moi un train» et expose des illustrateurs, dessinateurs, affichistes, designers et architectes belges ayant travaillés sur des trains ou des gares…"]]
+    },
+    {"type": "text"},
+    {
+      "type": "image",
+      "display": {"width": 710, "pageWidth": true},
+      "media": {"src": "/projets/trainworld/maxresdefault.jpg", "width": 1280, "height": 720}
+    },
+    {"type": "divider"},
+    {
+      "type": "text",
+      "rich": [["Le visiteur entre dans l’exposition muni d’un carnet et d’un crayon. Le musée est constitué de plusieurs halls dans lesquels sont exposés les artistes. Dans quatre de ces halls, le visiteur peut réaliser une manipulation au niveau d’îlots créatifs pour remplir son carnet."]]
+    },
+    {"type": "divider"},
+    {"type": "text"},
+    {
+      "type": "text",
+      "rich": [["1. La première manipulation concerne les planches de dessin de André Franquin. Les trains présents sur les planches de Franquin sont redessinés sur tablette puis imprimés en relief dans un atelier d’impression numérique."]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 240, "pageWidth": true},
+              "media": {
+                "src": "/projets/trainworld/7b6e383e-bba0-4ab7-acd2-6e17d3416be9.jpg",
+                "width": 1536,
+                "height": 2048
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 1400, "pageWidth": true},
+              "media": {"src": "/projets/trainworld/240918-dm1t-01077.jpg", "width": 1400, "height": 983}
+            },
+            {
+              "type": "image",
+              "display": {"width": 384, "pageWidth": true},
+              "media": {"src": "/projets/trainworld/240918-dm1t-01255.jpg", "width": 1400, "height": 933}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.3333333333333334,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 384},
+              "media": {"src": "/projets/trainworld/img-5336.jpg", "width": 2400, "height": 1800}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "color": "blue_background",
+      "icon": "/icons/forward_gray.svg",
+      "children": [{"type": "text", "rich": [["Installation finale"]]}]
+    },
+    {
+      "type": "image",
+      "display": {"width": 710, "pageWidth": true},
+      "media": {"src": "/projets/trainworld/bretzel-1-pl-17a-o-2.png", "width": 2400, "height": 1684}
+    },
+    {
+      "type": "callout",
+      "color": "blue_background",
+      "icon": "/icons/forward_gray.svg",
+      "children": [{"type": "text", "rich": [["Fichier d’impression"]]}]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 557.9773321708806, "height": 320, "pageWidth": true},
+              "media": {
+                "src": "/projets/trainworld/7929d491-e0b4-45a2-837f-472895bce016.png",
+                "width": 2000,
+                "height": 1147
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5000000000000001,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 552.6666666666666, "height": 320, "pageWidth": true},
+              "media": {
+                "src": "/projets/trainworld/9a410763-e813-4eee-94d6-4d57fcbef61b.png",
+                "width": 1658,
+                "height": 960
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "color": "blue_background",
+      "icon": "/icons/forward_gray.svg",
+      "children": [{"type": "text", "rich": [["3D de la manipulation"]]}]
+    },
+    {"type": "divider"},
+    {"type": "text"},
+    {
+      "type": "text",
+      "rich": [["2. La deuxième manipulation concerne un dessin de la locomotive type12, imaginée par François Schuiten, qui doit être reproduit sur le carnet grâce au pantographe."]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 432, "pageWidth": true},
+              "media": {"src": "/projets/trainworld/img-5334.jpg", "width": 2400, "height": 1800}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 1400, "pageWidth": true},
+              "media": {"src": "/projets/trainworld/240918-dm1t-00943.jpg", "width": 1400, "height": 933}
+            },
+            {
+              "type": "image",
+              "display": {"width": 432},
+              "media": {"src": "/projets/trainworld/240918-dm1t-01269.jpg", "width": 1400, "height": 858}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "color": "blue_background",
+      "icon": "/icons/forward_gray.svg",
+      "children": [{"type": "text", "rich": [["Installation finale"]]}]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 432},
+              "media": {
+                "src": "/projets/trainworld/capture-decran-2024-07-19-a-17-41-47.png",
+                "width": 2060,
+                "height": 1652
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 388.4879474068664, "height": 320},
+              "media": {
+                "src": "/projets/trainworld/69393689-4a46-4487-99d8-0856fe0dbc11.png",
+                "width": 1662,
+                "height": 1369
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 432},
+              "media": {
+                "src": "/projets/trainworld/capture-decran-2025-04-11-a-09-30-00.png",
+                "width": 2058,
+                "height": 1452
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 432},
+              "media": {
+                "src": "/projets/trainworld/capture-decran-2025-04-11-a-09-29-33.png",
+                "width": 2058,
+                "height": 1452
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "color": "blue_background",
+      "icon": "/icons/forward_gray.svg",
+      "children": [{"type": "text", "rich": [["Plans techniques pour des ferronneries"]]}]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.25,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 288},
+              "media": {"src": "/projets/trainworld/img-7170.jpeg", "width": 2400, "height": 1800}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.25,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 288},
+              "media": {"src": "/projets/trainworld/img-9347.jpeg", "width": 2400, "height": 1800}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.25,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 288},
+              "media": {"src": "/projets/trainworld/img-9346.jpeg", "width": 2400, "height": 1800}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.25,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 205.984375, "pageWidth": true},
+              "media": {"src": "/projets/trainworld/img-9426.jpeg", "width": 2400, "height": 1800}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "color": "blue_background",
+      "icon": "/icons/forward_gray.svg",
+      "children": [{"type": "text", "rich": [["Prototype du pantographe"]]}]
+    },
+    {"type": "divider"},
+    {"type": "text"},
+    {
+      "type": "numbered_list",
+      "rich": [["La troisième manipulation concerne le logo de Henry Van De Velde de la SNCB (réseau ferroviaire de Belgique). L’objectif était d’expliquer comment ce logo à été créé avec des successions de forme."]],
+      "start": 3,
+      "children": [
+        {
+          "type": "image",
+          "display": {"width": 710, "pageWidth": true},
+          "media": {
+            "src": "/projets/trainworld/capture-decran-2024-06-17-a-17-15-24.png",
+            "width": 2400,
+            "height": 1599
+          }
+        },
+        {
+          "type": "callout",
+          "color": "blue_background",
+          "icon": "/icons/forward_gray.svg",
+          "children": [{"type": "text", "rich": [["Réalisation 3D de la roue avec un fonctionnement en pochoir."]]}]
+        }
+      ]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 288},
+              "media": {"src": "/projets/trainworld/img-8612.jpeg", "width": 2400, "height": 1800}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.33333333333333337,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 288},
+              "media": {"src": "/projets/trainworld/img-8590.jpeg", "width": 2400, "height": 1800}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.33333333333333337,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 288},
+              "media": {"src": "/projets/trainworld/img-8604.jpeg", "width": 2400, "height": 1800}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "color": "blue_background",
+      "icon": "/icons/forward_gray.svg",
+      "children": [{"type": "text", "rich": [["Prototype de la roue découpée chez le menuisier."]]}]
+    },
+    {"type": "divider"},
+    {"type": "text"},
+    {
+      "type": "numbered_list",
+      "rich": [["La dernière manipulation concerne un écran interactif qui permet aux visiteurs de créer leur\npropre tableau selon le style de Paul Delvaux."]],
+      "start": 4
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 432},
+              "media": {
+                "src": "/projets/trainworld/1935-09-236-trois-femmes-dans-un-decor-copie-2.jpg",
+                "width": 2400,
+                "height": 1832
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.20833333333333331,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 192},
+              "media": {"src": "/projets/trainworld/fond-2-piece-ferme.jpg", "width": 1080, "height": 1920}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.29166666666666685,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 144},
+              "media": {"src": "/projets/trainworld/fond-2-piece-ferme-croquis.png", "width": 1080, "height": 1920}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 480},
+              "media": {
+                "src": "/projets/trainworld/capture-decran-2024-07-20-a-20-30-04.png",
+                "width": 2326,
+                "height": 1566
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.20833333333333331,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 192, "pageWidth": true},
+              "media": {"src": "/projets/trainworld/fond-1-ville-nuit-mer.jpg", "width": 1080, "height": 1920}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.29166666666666663,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 144},
+              "media": {"src": "/projets/trainworld/fond-1-ville-nuit-mer-croquis.png", "width": 1086, "height": 1922}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 503.43096234309627, "height": 320},
+              "media": {
+                "src": "/projets/trainworld/4cbf783a-4462-497e-845b-d563fd28ad08.png",
+                "width": 1880,
+                "height": 1195
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.20833333333333331,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 240, "pageWidth": true},
+              "media": {"src": "/projets/trainworld/fond-3-quai-gare.jpg", "width": 1080, "height": 1920}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.29166666666666663,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 144},
+              "media": {"src": "/projets/trainworld/fond-3-quai-gare-croquis.png", "width": 1080, "height": 1920}
+            },
+            {"type": "text"}
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "color": "blue_background",
+      "icon": "/icons/forward_gray.svg",
+      "children": [
+        {
+          "type": "text",
+          "rich": [["Création des fonds extraits des tableaux de Paul Delvaux à l’aide de l’IA et réadaptés pour le format numérique."]]
+        }
+      ]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 710, "pageWidth": true},
+              "media": {
+                "src": "/projets/trainworld/capture-decran-2025-04-11-a-10-05-32.png",
+                "width": 1802,
+                "height": 1014
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 710, "pageWidth": true},
+              "media": {
+                "src": "/projets/trainworld/capture-decran-2025-04-11-a-10-06-14.png",
+                "width": 1802,
+                "height": 1014
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 710, "pageWidth": true},
+              "media": {
+                "src": "/projets/trainworld/capture-decran-2025-04-11-a-10-05-42.png",
+                "width": 1802,
+                "height": 1014
+              }
+            },
+            {
+              "type": "image",
+              "display": {"width": 710, "pageWidth": true},
+              "media": {
+                "src": "/projets/trainworld/capture-decran-2025-04-11-a-10-05-53.png",
+                "width": 1802,
+                "height": 1014
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 710, "pageWidth": true},
+              "media": {
+                "src": "/projets/trainworld/capture-decran-2025-04-11-a-10-06-01.png",
+                "width": 1802,
+                "height": 1014
+              }
+            },
+            {
+              "type": "image",
+              "display": {"width": 332, "pageWidth": true},
+              "media": {
+                "src": "/projets/trainworld/capture-decran-2025-04-11-a-10-06-25.png",
+                "width": 1802,
+                "height": 1014
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "color": "blue_background",
+      "icon": "/icons/forward_gray.svg",
+      "children": [{"type": "text", "rich": [["Scénario d’usage"]]}]
+    },
+    {"type": "text"}
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "sleep-stud-2023",
+  "name": "Sleep Stud’",
+  "year": 2023,
+  "cover": {"src": "/projets/sleep-stud-2023/capture-dcran-2023-04-30-12-19-17.png", "width": 2400, "height": 1379},
+  "coverFocus": 0.5,
+  "links": [
+    {"label": "Voir la vidéo", "href": "https://youtu.be/etGCDQkiYeY"},
+    {"label": "Voir la vidéo", "href": "https://youtu.be/Kmg2mudxvUs"}
+  ],
+  "blocks": [
+    {
+      "type": "text",
+      "rich": [["Projet personnel de fin de cycle de ma Licence. J’ai développé 2 objets permettant de répondre aux problèmes des insomnies chez les étudiants. “Comment permettre aux étudiants de trouver un sommeil naturel ?” Les 2 objets ont été réalisés en 3D sur Blender et en animation pour présenter leurs fonctionnalités."]]
+    },
+    {"type": "divider"},
+    {
+      "type": "text",
+      "rich": [["Le premier objet du nom de « "], ["Sleep Stud’1 ", [["b"]]], ["» ressemble à une petite lampe et elle sera à poser dans sa chambre. Cet objet fera effet lors de l’endormissement et il fait appel à l’odorat, l’ouïe et la vue."]]
+    },
+    {
+      "type": "image",
+      "display": {"width": 720, "pageWidth": true},
+      "media": {"src": "/projets/sleep-stud-2023/lampe-finale-4.png", "width": 1920, "height": 1080}
+    },
+    {
+      "type": "image",
+      "display": {"width": 624},
+      "media": {
+        "src": "/projets/sleep-stud-2023/0abc7a3d-8932-4c4a-938a-d067bbcae70e.png",
+        "width": 1304,
+        "height": 895
+      }
+    },
+    {
+      "type": "text",
+      "rich": [["Le second objet du nom de « "], ["Sleep Stud’2 ", [["b"]]], ["» a une forme de coussin qui se posera sur la poitrine ou le ventre de l’utilisateur. Cet objet fera effet lors de l’endormissement et il fait appel à l’ouïe,le toucher et la vue."]]
+    },
+    {
+      "type": "image",
+      "display": {"width": 720, "pageWidth": true},
+      "media": {"src": "/projets/sleep-stud-2023/capture-dcran-2023-04-11-12-58-21.png", "width": 2400, "height": 1501}
+    },
+    {
+      "type": "image",
+      "display": {"width": 624, "height": 320},
+      "media": {
+        "src": "/projets/sleep-stud-2023/cbfc6608-d91d-4903-8fe2-ece46c7508bf.png",
+        "width": 1362,
+        "height": 918
+      }
+    },
+    {"type": "divider"},
+    {
+      "type": "text",
+      "rich": [["Affiche de communication du projet avec comme commanditaire le ministère de la Santé et de la Prévention."]]
+    },
+    {
+      "type": "pdf",
+      "size": "14,2 Mo",
+      "title": "affiche sleep stud'1.pdf",
+      "display": {"width": 432, "height": 590},
+      "media": {"src": "/projets/sleep-stud-2023/affiche-sleep-stud1.pdf"}
+    },
+    {
+      "type": "pdf",
+      "size": "15,2 Mo",
+      "title": "affiche sleep stud'2.pdf",
+      "display": {"width": 432, "height": 595},
+      "media": {"src": "/projets/sleep-stud-2023/affiche-sleep-stud2.pdf"}
+    },
+    {"type": "text"},
+    {
+      "type": "text",
+      "rich": [["Les QRCodes présent sur les affiches redirige vers les vidéos d’animation qui présente les fonctionnalités des objets."]]
+    },
+    {"type": "text"},
+    {"type": "video", "display": {"width": 384, "height": 480}, "youtube": "Kmg2mudxvUs"},
+    {"type": "video", "display": {"width": 384, "height": 480}, "youtube": "etGCDQkiYeY"},
+    {"type": "text"},
+    {"type": "sub_header", "rich": [["PDF"]]},
+    {"type": "text", "rich": [["Mémoire du projet de fin de cycle."]]},
+    {
+      "type": "pdf",
+      "size": "3,8 Mo",
+      "title": "TranTiffanyMemoireSeminaireAtelier2022-23.pdf",
+      "display": {"width": 528, "height": 539},
+      "media": {"src": "/projets/sleep-stud-2023/trantiffanymemoireseminaireatelier2022-23.pdf"}
+    },
+    {"type": "text"},
+    {"type": "divider"},
+    {"type": "text", "rich": [["Réalisation des maquette des objets."]]},
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 384, "pageWidth": true},
+              "media": {"src": "/projets/sleep-stud-2023/img-5006.jpeg", "width": 2400, "height": 1800}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 336, "pageWidth": true},
+              "media": {"src": "/projets/sleep-stud-2023/img-4998.jpeg", "width": 2400, "height": 1800}
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "text"}
+  ]
+}

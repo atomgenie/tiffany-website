@@ -1,0 +1,173 @@
+{
+  "slug": "bibliotheques-web-to-print-2023",
+  "name": "Bibliothèques web to print",
+  "year": 2023,
+  "cover": {"src": "/projets/bibliotheques-web-to-print-2023/mise6-en-situation-1.png", "width": 1920, "height": 1080},
+  "coverFocus": 0.235,
+  "blocks": [
+    {
+      "type": "text",
+      "rich": [["Projet de création d’un "], ["module d’exposition et de production d’éditions", [["b"]]], [". Ces modules devaient être facile à transporter, avoir des systèmes qui exposent et rangent des éditions et permettre à plusieurs personnes de s’installer, se poser et lire les éditions."]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 1168, "pageWidth": true},
+              "media": {
+                "src": "/projets/bibliotheques-web-to-print-2023/capture-decran-2025-04-11-a-09-06-03.png",
+                "width": 1168,
+                "height": 1658
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 1190, "pageWidth": true},
+              "media": {
+                "src": "/projets/bibliotheques-web-to-print-2023/capture-decran-2025-04-11-a-09-05-46.png",
+                "width": 1190,
+                "height": 1688
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "color": "yellow_background",
+      "icon": "💡",
+      "children": [
+        {
+          "type": "text",
+          "rich": [["Croquis des modules fait à la main puis vectoriser pour créer une notice de montage."]]
+        }
+      ]
+    },
+    {"type": "divider"},
+    {"type": "text", "rich": [["Maquettes des modules créées en partie par découpe laser"]]},
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 192, "pageWidth": true, "align": "center"},
+              "media": {"src": "/projets/bibliotheques-web-to-print-2023/img-0605.jpg", "width": 2400, "height": 1800}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 240, "pageWidth": true},
+              "media": {"src": "/projets/bibliotheques-web-to-print-2023/img-0625.jpeg", "width": 2400, "height": 1800}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 192, "pageWidth": true},
+              "media": {"src": "/projets/bibliotheques-web-to-print-2023/img-0638.jpg", "width": 1800, "height": 2400}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 192, "pageWidth": true},
+              "media": {"src": "/projets/bibliotheques-web-to-print-2023/img-0644.jpg", "width": 1800, "height": 2400}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.33333333333333337,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 108, "pageWidth": true},
+              "media": {"src": "/projets/bibliotheques-web-to-print-2023/img-0653.jpg", "width": 2400, "height": 1800}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.33333333333333337,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 336},
+              "media": {"src": "/projets/bibliotheques-web-to-print-2023/img-0661.jpg", "width": 1800, "height": 2400}
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "divider"},
+    {
+      "type": "image",
+      "display": {"width": 816},
+      "media": {
+        "src": "/projets/bibliotheques-web-to-print-2023/mise6-en-situation-1-2.png",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "type": "image",
+      "display": {"width": 816},
+      "media": {
+        "src": "/projets/bibliotheques-web-to-print-2023/mise-en-situation-2.png",
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {"type": "sub_sub_header", "rich": [["Le PDF"]]},
+    {
+      "type": "callout",
+      "color": "yellow_background",
+      "icon": "💡",
+      "children": [{"type": "text", "rich": [["Rendu 3D des modules d’expositions et de productions"]]}]
+    },
+    {"type": "divider"},
+    {
+      "type": "pdf",
+      "size": "7,3 Mo",
+      "title": "TranTiffany-GuilleminaultThomas-DransartMaé-PoudrasClaire.pdf",
+      "display": {"width": 708, "height": 831, "align": "center"},
+      "media": {
+        "src": "/projets/bibliotheques-web-to-print-2023/trantiffany-guilleminaultthomas-dransartma-poudrasclaire.pdf"
+      }
+    }
+  ]
+}

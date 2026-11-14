@@ -1,0 +1,131 @@
+{
+  "slug": "textile-de-foire",
+  "name": "Textile de foire",
+  "subtitle": "design de médiation / scénographie",
+  "year": 2023,
+  "context": "Musée du Vieux Nîmes",
+  "cover": {"src": "/projets/textile-de-foire/vue-foire.png", "width": 1920, "height": 1080},
+  "coverFocus": 0.325,
+  "blocks": [
+    {
+      "type": "text",
+      "rich": [["Projet en partenariat avec le musée du Vieux Nîmes. Cette exposition cherche à mettre en valeur leurs collections textiles grâce à des stratégies ludiques, communicationnelles ainsi qu’un langage théâtral. Chaque salle du musée cherche à mettre en avant les savoir-faire de l’époque. "]]
+    },
+    {
+      "type": "text",
+      "rich": [["Comment engager les objets du musée pour mettre en lien différentes époques ?"]]
+    },
+    {
+      "type": "text",
+      "rich": [["Chaque salle représente un siècle et propose des dispositifs ludiques invitant les visiteurs à manipuler et expérimenter."]]
+    },
+    {"type": "divider"},
+    {
+      "type": "pdf",
+      "size": "8,1 Mo",
+      "title": "Poster GuilleminaultThomas-FortasMaissane-GanzerClémence-CosteArthur-TranTiffany.pdf",
+      "display": {"width": 708, "height": 930},
+      "media": {
+        "src": "/projets/textile-de-foire/poster-guilleminaultthomas-fortasmaissane-ganzerclmence-costearthur-trantiffany.pdf"
+      }
+    },
+    {"type": "divider"},
+    {
+      "type": "text",
+      "rich": [["Maquettes des dispositifs de compréhension du métier à tisser. Maquettes entièrement créées par découpe laser et peintes aux couleurs de la charte graphique de l’exposition."]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 336},
+              "media": {"src": "/projets/textile-de-foire/img-8942.jpg", "width": 1800, "height": 2400}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 384},
+              "media": {"src": "/projets/textile-de-foire/img-8950-grande.jpeg", "width": 960, "height": 1280}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "rich": [["Le principe du peigne, de la navette et des fils de chaines"]],
+      "color": "gray_background",
+      "icon": "💡"
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.33333333333333337,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 336},
+              "media": {"src": "/projets/textile-de-foire/img-8963.jpg", "width": 2400, "height": 1800}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/textile-de-foire/img-8964.jpg", "width": 2400, "height": 1800}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.33333333333333337,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 336},
+              "media": {"src": "/projets/textile-de-foire/img-8969-grande.jpeg", "width": 960, "height": 1280}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "rich": [["Le principe des pédales avec un déroulant des étapes de fabrication d’un tissus avec le métier à tisser. "]],
+      "color": "gray_background",
+      "icon": "💡"
+    },
+    {"type": "divider"},
+    {"type": "text", "rich": [["Visuels 3D des différentes salles de l’exposition"]]},
+    {
+      "type": "image",
+      "display": {"width": 710, "pageWidth": true},
+      "media": {"src": "/projets/textile-de-foire/vue-foire-2.png", "width": 1920, "height": 1080}
+    },
+    {
+      "type": "image",
+      "display": {"width": 710, "pageWidth": true},
+      "media": {"src": "/projets/textile-de-foire/vue-entre-avec-textes-2.png", "width": 1920, "height": 1080}
+    },
+    {
+      "type": "image",
+      "display": {"width": 710, "pageWidth": true},
+      "media": {"src": "/projets/textile-de-foire/vue-denim-avec-textes-2.png", "width": 1920, "height": 1080}
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "slug": "museum",
+  "name": "Museum",
+  "subtitle": "design d’expérience",
+  "year": 2024,
+  "context": "Museum de Toulouse",
+  "cover": {"src": "/projets/museum/v3-vue-haut-acces-libre.png", "width": 1920, "height": 1080},
+  "coverFocus": 0.214,
+  "blocks": [
+    {
+      "type": "text",
+      "rich": [["Ce projet réalisé en partenariat avec le Museum de Toulouse se centre autour des activités proposées par leur médiathèque jeunesse et investit tout l’espace de celle-ci. "]]
+    },
+    {
+      "type": "text",
+      "rich": [["Notre intention est de faciliter le déploiement et le repli, par la médiatrice, des éléments nécessaires aux activités proposées. "]]
+    },
+    {
+      "type": "text",
+      "rich": [["Pour ce projet, nous avons suivi la méthodologie de design d’expérience apprise lors d’une formation diriger par Emilien Soussi fondatrice de WDrocks. "]]
+    },
+    {"type": "text"},
+    {"type": "divider"},
+    {"type": "text"},
+    {
+      "type": "text",
+      "rich": [["Lors de nos entretiens avec les médiatrice, nous avons identifié 3 configurations types de la médiathèque jeunesse : l’accès libre, l’offre scolaire et l’atelier vacances. Chaque configuration nécessite une disposition et un aménagement particulier du mobilier. "]]
+    },
+    {"type": "text"},
+    {
+      "type": "image",
+      "display": {"width": 710, "pageWidth": true},
+      "media": {"src": "/projets/museum/v3-vue-haut-acces-libre-2.png", "width": 1920, "height": 1080}
+    },
+    {
+      "type": "callout",
+      "color": "blue",
+      "icon": "💡",
+      "children": [{"type": "text", "rich": [["Configuration 1 : Accès libre"]]}]
+    },
+    {
+      "type": "image",
+      "display": {"width": 672, "pageWidth": true},
+      "media": {"src": "/projets/museum/v6-vue-haut-offre-scolaire.png", "width": 1920, "height": 1080}
+    },
+    {
+      "type": "callout",
+      "color": "blue",
+      "icon": "💡",
+      "children": [{"type": "text", "rich": [["Configuration 2 : Offre scolaire"]]}]
+    },
+    {
+      "type": "image",
+      "display": {"width": 710, "pageWidth": true},
+      "media": {"src": "/projets/museum/v3-vue-haut-atelier-vacance.png", "width": 1920, "height": 1080}
+    },
+    {
+      "type": "callout",
+      "color": "blue",
+      "icon": "💡",
+      "children": [{"type": "text", "rich": [["Configuration 3 : Atelier vacances"]]}]
+    },
+    {"type": "divider"},
+    {
+      "type": "text",
+      "rich": [["Pour répondre à ce besoin de modularité, nous avons développé une gamme de mobilier :"]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 528, "height": 320, "pageWidth": true},
+              "media": {
+                "src": "/projets/museum/acaafe78-97d0-4467-968b-b39205301957.png",
+                "width": 1930,
+                "height": 1379
+              }
+            },
+            {
+              "type": "callout",
+              "color": "blue_background",
+              "icon": "💡",
+              "children": [
+                {
+                  "type": "text",
+                  "rich": [["Une étagère qui peut stocker et exposer des livres avec son bac à livres situé en bas pour permettre aux jeunes enfants d’y accéder facilement."]]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 1280, "pageWidth": true},
+              "media": {
+                "src": "/projets/museum/capture-decran-2025-04-11-a-08-59-51.png",
+                "width": 1280,
+                "height": 840
+              }
+            },
+            {"type": "text"},
+            {
+              "type": "callout",
+              "color": "blue_background",
+              "icon": "💡",
+              "children": [
+                {
+                  "type": "text",
+                  "rich": [["Des tables gigognes et des coussins de deux épaisseurs différentes."]]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {"type": "divider"},
+            {
+              "type": "image",
+              "display": {"width": 528, "height": 320, "pageWidth": true},
+              "media": {
+                "src": "/projets/museum/f1c116f6-5f95-4d14-85b1-d5dfc20f279c.png",
+                "width": 1922,
+                "height": 1409
+              }
+            },
+            {
+              "type": "callout",
+              "color": "blue_background",
+              "icon": "💡",
+              "children": [
+                {
+                  "type": "text",
+                  "rich": [["Un chariot à coussins qui facilite leur déplacement et leur rangement."]]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {"type": "divider"},
+            {
+              "type": "image",
+              "display": {"width": 438.94811656005686, "height": 320, "pageWidth": true},
+              "media": {
+                "src": "/projets/museum/7e99287e-b578-465c-bda8-93a182b3dfca.png",
+                "width": 1930,
+                "height": 1407
+              }
+            },
+            {
+              "type": "callout",
+              "color": "blue_background",
+              "icon": "💡",
+              "children": [{"type": "text", "rich": [["Un pôle multimédia et un bureau en gigognes pour la médiatrice"]]}]
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "text", "rich": [[" "]]},
+    {
+      "type": "text",
+      "rich": [["Tous ces éléments sont adaptés à la taille des enfants et sont équipés d’une sangle qui aide à leur déplacement. Le mobilier est réalisé en bouleau contreplaqué et peint avec des touches de bleu."]]
+    },
+    {
+      "type": "image",
+      "display": {"width": 16000, "pageWidth": true},
+      "media": {"src": "/projets/museum/v3-diapo-final-silhouette.png", "width": 2400, "height": 1350}
+    },
+    {
+      "type": "callout",
+      "color": "blue",
+      "icon": "💡",
+      "children": [{"type": "text", "rich": [["Rendu 3D des éléments dans la médiathèque"]]}]
+    },
+    {"type": "divider"},
+    {"type": "text", "rich": [["Réalisation des maquettes :"]]},
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.25,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 288},
+              "media": {"src": "/projets/museum/img-2729.jpeg", "width": 1800, "height": 2400}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.25,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 240},
+              "media": {"src": "/projets/museum/img-2749.jpeg", "width": 1800, "height": 2400}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.25,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 288},
+              "media": {"src": "/projets/museum/img-2754.jpeg", "width": 1800, "height": 2400}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.25,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 288},
+              "media": {"src": "/projets/museum/img-2744.jpeg", "width": 1800, "height": 2400}
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "divider"},
+    {"type": "text", "rich": [["Mise en œuvre et animation d’un atelier de co-création"]]},
+    {
+      "type": "image",
+      "display": {"width": 432, "height": 320},
+      "media": {"src": "/projets/museum/71dd90e0-2a21-40b8-a1a9-cdff1c944d63.png", "width": 2000, "height": 2226}
+    },
+    {
+      "type": "image",
+      "display": {"width": 432},
+      "media": {"src": "/projets/museum/img-3431.jpeg", "width": 2400, "height": 1800}
+    },
+    {"type": "divider"},
+    {"type": "text", "rich": [["Présentation du projet au Museum de Toulouse"]]},
+    {
+      "type": "image",
+      "display": {"width": 3936, "pageWidth": true},
+      "media": {"src": "/projets/museum/dsc-4164-2.jpeg", "width": 2400, "height": 1600}
+    },
+    {
+      "type": "image",
+      "display": {"width": 455.7488789237668, "height": 320, "pageWidth": true},
+      "media": {"src": "/projets/museum/da0896b7-7d0c-45d9-b4b0-154bf87244c4.png", "width": 1588, "height": 1115}
+    },
+    {"type": "text"},
+    {"type": "divider"},
+    {"type": "sub_header", "rich": [["PDF"]]},
+    {
+      "type": "file",
+      "size": "18,1 Mo",
+      "title": "Tiffany_Alexane_Quentin_Restitution_Finale.pdf",
+      "media": {"src": "/projets/museum/tiffany-alexane-quentin-restitution-finale.pdf"}
+    },
+    {"type": "text"}
+  ]
+}

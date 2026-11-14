@@ -1,0 +1,166 @@
+{
+  "slug": "entre-ombre-et-lumiere-2023",
+  "name": "Entre Ombre et Lumière",
+  "year": 2023,
+  "cover": {"src": "/projets/entre-ombre-et-lumiere-2023/img-0745.jpg", "width": 2400, "height": 1800},
+  "coverFocus": 0.292,
+  "blocks": [
+    {
+      "type": "text",
+      "rich": [["Projet en partenariat avec le musée du Vieux Nîmes de création d’outils de médiation pour rendre active et attractive la découverte et la fréquentation du musée du vieux Nîmes pour les adolescents et jeunes adultes. "]]
+    },
+    {
+      "type": "text",
+      "rich": [["L’exposition « Entre Ombres et Lumières » est une exposition immersive et interactive qui plonge l’adolescent dans l’univers du Musée du Vieux Nîmes. Les lunettes holographiques que possèderont le visiteur durant toute la visite permettront de stimuler leurs sens (vue et ouïe)."]]
+    },
+    {"type": "text"},
+    {
+      "type": "pdf",
+      "size": "2,6 Mo",
+      "title": "Poster ombre et lumiere.pdf",
+      "display": {"width": 708, "height": 930},
+      "media": {"src": "/projets/entre-ombre-et-lumiere-2023/poster-ombre-et-lumiere.pdf"}
+    },
+    {"type": "divider"},
+    {
+      "type": "callout",
+      "color": "yellow_background",
+      "icon": "💡",
+      "children": [{"type": "text", "rich": [["Poster de présentation du projet"]]}]
+    },
+    {"type": "text", "rich": [["Réalisation d’édition de présentation de l’exposition"]]},
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.33333333333333337,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 336, "height": 320, "pageWidth": true},
+              "media": {
+                "src": "/projets/entre-ombre-et-lumiere-2023/8e173fa6-a721-4d7a-853a-3061600ba1b5.png",
+                "width": 843,
+                "height": 1050
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.33333333333333337,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 256.18233618233614, "height": 320, "pageWidth": true},
+              "media": {
+                "src": "/projets/entre-ombre-et-lumiere-2023/2f54bed3-ce2d-4003-bf59-9af1e5be7333.png",
+                "width": 843,
+                "height": 1053
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 336, "pageWidth": true},
+              "media": {
+                "src": "/projets/entre-ombre-et-lumiere-2023/capture-dcran-2023-04-01-22-29-10.png",
+                "width": 1322,
+                "height": 1656
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "divider"},
+    {"type": "text", "rich": [["Fiche technique des lunettes holographiques"]]},
+    {
+      "type": "image",
+      "display": {"width": 2388, "pageWidth": true},
+      "media": {
+        "src": "/projets/entre-ombre-et-lumiere-2023/illustration-sans-titre.png",
+        "width": 2388,
+        "height": 1668
+      }
+    },
+    {"type": "divider"},
+    {
+      "type": "text",
+      "rich": [["Création de supports qui accueilleront des tablettes. Ces supports seront mis dans le musée lors de la Nuit des Musées. Le premier permet de diffuser un hologramme. Cet hologramme a été filmé antérieurement dans un studio avec un fond vert."]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/entre-ombre-et-lumiere-2023/img-5653.jpg", "width": 1784, "height": 2400}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.49999999999999994,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 384},
+              "media": {"src": "/projets/entre-ombre-et-lumiere-2023/img-5654.jpg", "width": 1821, "height": 2400}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "rich": [["Le second support permet d’accueillir une tablette avec un questionnaire. Ce questionnaire est un test pour les visiteurs qui leur permettra d’évaluer les savoirs acquis lors de la visite."]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/entre-ombre-et-lumiere-2023/img-4134.jpg", "width": 2028, "height": 2400}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/entre-ombre-et-lumiere-2023/img-4135.jpg", "width": 2015, "height": 2400}
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "divider"},
+    {
+      "type": "image",
+      "display": {"width": 480},
+      "media": {"src": "/projets/entre-ombre-et-lumiere-2023/img-2745.jpg", "width": 2400, "height": 1800}
+    },
+    {
+      "type": "callout",
+      "color": "yellow_background",
+      "icon": "💡",
+      "children": [{"type": "text", "rich": [["Tournage sur fond vert pour la création d’un hologramme"]]}]
+    }
+  ]
+}

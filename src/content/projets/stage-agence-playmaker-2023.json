@@ -1,0 +1,242 @@
+{
+  "slug": "stage-agence-playmaker-2023",
+  "name": "Stage Agence PLAYMAKER",
+  "year": 2023,
+  "cover": {"src": "/projets/stage-agence-playmaker-2023/fond-bureau.jpg", "width": 1696, "height": 2400},
+  "coverFocus": 0.236,
+  "blocks": [
+    {
+      "type": "text",
+      "rich": [["Dans le cadre de mes études, j’ai pu réaliser un stage de 1 mois dans l’agence PLAYMAKER, une agence d’activation."]]
+    },
+    {"type": "sub_header", "rich": [["Click & Collect Aéroport Marseille Provence"]]},
+    {
+      "type": "text",
+      "rich": [["Création d’affiche click & collect pour l’aéroport de Marseille Provence et mise en situation dans l’espace. Affiche envoyer au client pour impression et mise en place dans l’aéroport."]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 336},
+              "media": {
+                "src": "/projets/stage-agence-playmaker-2023/capture-dcran-2023-02-14-17-30-08.png",
+                "width": 1652,
+                "height": 1230
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 336},
+              "media": {
+                "src": "/projets/stage-agence-playmaker-2023/capture-dcran-2023-02-14-17-30-21.png",
+                "width": 2060,
+                "height": 1536
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "sub_header", "rich": [["Haägen-Dazs"]]},
+    {
+      "type": "text",
+      "rich": [["Création de maquettes d’affiches cinéma selon une charte graphique existante en collaboration avec Häagen Dazs."]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.25,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 336, "pageWidth": true},
+              "media": {
+                "src": "/projets/stage-agence-playmaker-2023/capture-dcran-2023-02-02-17-06-44.png",
+                "width": 1142,
+                "height": 1528
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.2500000000000002,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 336, "pageWidth": true},
+              "media": {
+                "src": "/projets/stage-agence-playmaker-2023/capture-dcran-2023-02-02-17-22-26.png",
+                "width": 1264,
+                "height": 1686
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.25,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 288, "pageWidth": true},
+              "media": {
+                "src": "/projets/stage-agence-playmaker-2023/capture-dcran-2023-02-02-17-12-12.png",
+                "width": 1142,
+                "height": 1528
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.25,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 288, "pageWidth": true},
+              "media": {
+                "src": "/projets/stage-agence-playmaker-2023/capture-dcran-2023-02-02-17-12-03.png",
+                "width": 1142,
+                "height": 1528
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "sub_header", "rich": [["Sodexo"]]},
+    {
+      "type": "text",
+      "rich": [["Création de photomontage d’affiche en relation avec les plats typique de différentes séries imposées. Ces photomontages vont servir d’inspiration à une styliste culinaire pour réaliser les photos finales."]]
+    },
+    {"type": "sub_sub_header", "rich": [["Affiche Friends"]]},
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.33333333333333337,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 240},
+              "media": {
+                "src": "/projets/stage-agence-playmaker-2023/capture-dcran-2023-01-25-11-38-58.png",
+                "width": 1508,
+                "height": 2376
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.33333333333333337,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 240},
+              "media": {
+                "src": "/projets/stage-agence-playmaker-2023/capture-dcran-2023-01-25-11-40-38.png",
+                "width": 1330,
+                "height": 2102
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 1350, "pageWidth": true},
+              "media": {
+                "src": "/projets/stage-agence-playmaker-2023/capture-dcran-2023-01-25-12-22-29.png",
+                "width": 1350,
+                "height": 2118
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "sub_sub_header", "rich": [["Affiche Desperate Housewives"]]},
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.33333333333333337,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 1036, "pageWidth": true},
+              "media": {
+                "src": "/projets/stage-agence-playmaker-2023/capture-dcran-2023-01-27-10-51-36.png",
+                "width": 1036,
+                "height": 1636
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.33333333333333337,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 1342, "pageWidth": true},
+              "media": {
+                "src": "/projets/stage-agence-playmaker-2023/capture-dcran-2023-01-27-16-38-13.png",
+                "width": 1342,
+                "height": 2118
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 1318, "pageWidth": true},
+              "media": {
+                "src": "/projets/stage-agence-playmaker-2023/capture-dcran-2023-01-27-16-37-12.png",
+                "width": 1318,
+                "height": 2080
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "sub_header", "rich": [["Rapport de stage"]]},
+    {"type": "text", "rich": [["Réalisation de mon rapport de stage sous forme d’édition."]]},
+    {
+      "type": "image",
+      "display": {"width": 710, "pageWidth": true},
+      "media": {
+        "src": "/projets/stage-agence-playmaker-2023/capture-dcran-2023-02-15-12-24-35.png",
+        "width": 1988,
+        "height": 1492
+      }
+    },
+    {"type": "text"}
+  ]
+}

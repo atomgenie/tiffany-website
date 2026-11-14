@@ -1,0 +1,9 @@
+services:
+  web:
+    build:
+      context: .
+      args:
+        SITE_URL: https://tiffany.tamtanguy.fr
+    restart: unless-stopped
+    ports:
+      - "3000:3000"

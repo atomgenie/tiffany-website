@@ -1,0 +1,186 @@
+{
+  "slug": "pret-a-recolter",
+  "name": "Prêt à récolter",
+  "subtitle": "médiation silencieuse",
+  "year": 2023,
+  "context": "Association La Nourrice",
+  "cover": {"src": "/projets/pret-a-recolter/img-3025.jpg", "width": 2400, "height": 1800},
+  "coverFocus": 0.403,
+  "blocks": [
+    {
+      "type": "text",
+      "rich": [["Ce projet réalisé en partenariat avec l’association de La Nourrice (œuvre et jardin forêt comestible et habitable) vise à valoriser les ressources du jardin grâce à une médiation silencieuse."]]
+    },
+    {
+      "type": "image",
+      "media": {"src": "/projets/pret-a-recolter/img-4673.jpg", "width": 1800, "height": 2400}
+    },
+    {"type": "text"},
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 240.9266409266409, "height": 320, "pageWidth": true},
+              "media": {
+                "src": "/projets/pret-a-recolter/3e1dcebd-2c65-4b69-99f7-0b16d1936226.png",
+                "width": 1755,
+                "height": 2331
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 241.60291438979965, "height": 320, "pageWidth": true},
+              "media": {
+                "src": "/projets/pret-a-recolter/2b9a3132-621e-4b75-b8ed-2379ceec83b9.png",
+                "width": 1658,
+                "height": 2196
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "text"},
+    {
+      "type": "image",
+      "display": {"width": 960},
+      "media": {"src": "/projets/pret-a-recolter/img-3025.jpeg", "width": 2400, "height": 1800}
+    },
+    {"type": "divider"},
+    {
+      "type": "text",
+      "rich": [["Kit d’étiquetage des plantes. Il permet aux visiteurs du jardin d’identifier les noms et les caractéristiques des végétaux."]]
+    },
+    {
+      "type": "image",
+      "media": {"src": "/projets/pret-a-recolter/img-4251.jpg", "width": 2400, "height": 1800}
+    },
+    {"type": "text"},
+    {
+      "type": "video",
+      "title": "IMG_4512.mov",
+      "display": {"width": 720, "height": 320, "pageWidth": true},
+      "media": {"src": "/projets/pret-a-recolter/img-4512.mp4"}
+    },
+    {
+      "type": "callout",
+      "color": "teal_background",
+      "icon": "💡",
+      "children": [{"type": "text", "rich": [["Éléments du kit"]]}]
+    },
+    {
+      "type": "image",
+      "display": {"width": 912, "height": 320},
+      "media": {
+        "src": "/projets/pret-a-recolter/ff4aac73-5212-4fa0-951f-1e49cf8983a9.png",
+        "width": 1879,
+        "height": 904
+      }
+    },
+    {
+      "type": "callout",
+      "color": "teal_background",
+      "icon": "💡",
+      "children": [{"type": "text", "rich": [["Notice de montage des médaillons"]]}]
+    },
+    {"type": "divider"},
+    {
+      "type": "text",
+      "rich": [["Plan du jardin peint à la peinture à ardoise pour laisser le choix aux bénévoles de l’association d’inscrire des informations qui évoluent"]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.33333333333333337,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 249.60998439937595, "height": 320},
+              "media": {
+                "src": "/projets/pret-a-recolter/a875973c-befa-4d78-a1a0-9ba475c85343.png",
+                "width": 1872,
+                "height": 2400
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.33333333333333337,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 250.69649211997967, "height": 320},
+              "media": {
+                "src": "/projets/pret-a-recolter/7530ae05-71fa-4c02-8cdc-eac6677fa09a.png",
+                "width": 1541,
+                "height": 1967
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 248.63616170590848, "height": 320, "pageWidth": true},
+              "media": {
+                "src": "/projets/pret-a-recolter/a571d72f-75d6-492d-b980-490e9ba70825.png",
+                "width": 1749,
+                "height": 2251
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "divider"},
+    {"type": "text", "rich": [["Présentation du projet devant les bénévoles"]]},
+    {
+      "type": "image",
+      "display": {"width": 528},
+      "media": {"src": "/projets/pret-a-recolter/img-3063.jpg", "width": 1800, "height": 2400}
+    },
+    {"type": "text"},
+    {"type": "divider"},
+    {"type": "sub_header", "rich": [["PDF"]]},
+    {
+      "type": "pdf",
+      "size": "26,1 Mo",
+      "title": "dossier communication.pdf",
+      "display": {"width": 708, "height": 499},
+      "media": {"src": "/projets/pret-a-recolter/dossier-communication.pdf"}
+    },
+    {"type": "divider"},
+    {"type": "sub_header", "rich": [["Scénarios d’usage"]]},
+    {
+      "type": "text",
+      "rich": [["Scénario d’usage détaillé des bénévoles et des visiteurs qui interagissent avec l’objet de médiation."]]
+    },
+    {
+      "type": "image",
+      "caption": [["S.01 — Scénario d’usage dédié aux bénévoles."]],
+      "media": {"src": "/projets/pret-a-recolter/p08-2.jpg", "width": 2400, "height": 1672}
+    },
+    {
+      "type": "image",
+      "caption": [["S.02 — Scénario d’usage dédié aux visiteurs."]],
+      "media": {"src": "/projets/pret-a-recolter/p08-1.jpg", "width": 2400, "height": 1629}
+    }
+  ]
+}

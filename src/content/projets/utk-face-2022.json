@@ -1,0 +1,139 @@
+{
+  "slug": "utk-face-2022",
+  "name": "UTK Face",
+  "year": 2022,
+  "cover": {"src": "/projets/utk-face-2022/couverture.png", "width": 2400, "height": 1649},
+  "coverFocus": 0.42,
+  "links": [{"label": "Voir la vidéo", "href": "https://youtu.be/Plap_qUngWA"}],
+  "blocks": [
+    {
+      "type": "text",
+      "rich": [["Livre sur le dataset «"], ["UTKFace", [["b"]]], ["». \nLes collages dénoncent la catégorisation et la déshumanisation des êtres humains sous des origines (asiatique, blanc, noir et autres)."]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5000000000000001,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 384},
+              "media": {"src": "/projets/utk-face-2022/homme-autres.jpeg", "width": 1691, "height": 2400}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 384},
+              "media": {"src": "/projets/utk-face-2022/femme-autres.jpeg", "width": 1691, "height": 2400}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 384},
+              "media": {"src": "/projets/utk-face-2022/femme-asiatiquz.jpeg", "width": 1691, "height": 2400}
+            },
+            {
+              "type": "image",
+              "display": {"width": 1748, "pageWidth": true},
+              "media": {"src": "/projets/utk-face-2022/blanchosse.jpg", "width": 1691, "height": 2400}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 384},
+              "media": {"src": "/projets/utk-face-2022/homme-asiatique.jpeg", "width": 1691, "height": 2400}
+            },
+            {
+              "type": "image",
+              "display": {"width": 1748, "pageWidth": true},
+              "media": {"src": "/projets/utk-face-2022/blanco.jpg", "width": 1691, "height": 2400}
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "divider"},
+    {
+      "type": "text",
+      "rich": [["Ce livre est composé d’une double-page ludique pour enfant afin de faciliter la compréhension du message. Ce jeu est inspiré du jeu “Mr Patate” où chacun peut choisir l’oreille, le nez, l’œil et la bouche qu’il souhaite. Ici, les parties du visage sont extraites du dataset."]]
+    },
+    {"type": "text"},
+    {
+      "type": "image",
+      "display": {"width": 3083, "pageWidth": true},
+      "media": {"src": "/projets/utk-face-2022/mr-patate.jpg", "width": 2400, "height": 1922}
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.25,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 240, "pageWidth": true},
+              "media": {"src": "/projets/utk-face-2022/mr-patate-bouche.png", "width": 1696, "height": 2400}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.25,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 192},
+              "media": {"src": "/projets/utk-face-2022/mr-patate-oeil.png", "width": 1696, "height": 2400}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.25,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 120},
+              "media": {"src": "/projets/utk-face-2022/mr-patate-oreille.png", "width": 1487, "height": 2400}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.25,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 132},
+              "media": {"src": "/projets/utk-face-2022/mr-patate-nez.png", "width": 1487, "height": 2400}
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "video", "display": {"width": 854, "pageWidth": true}, "youtube": "Plap_qUngWA"}
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "slug": "le-gout-du-vietnam",
+  "name": "Le goût du Vietnam",
+  "subtitle": "atelier de médiation",
+  "year": 2025,
+  "context": "DSAA, Toulouse",
+  "cover": {"src": "/projets/le-gout-du-vietnam/p06-1.webp", "width": 2400, "height": 1697},
+  "coverFocus": 0.55,
+  "blocks": [
+    {
+      "type": "text",
+      "rich": [["Ce projet de recherche a pour intention de se servir du design pour faire de la gastronomie vietnamienne un "], ["lieu de découverte et de dialogue", [["b"]]], [" afin de mettre en lumière la richesse et la diversité de cette culture. J’ai mené ce projet en trois étapes."]]
+    },
+    {"type": "sub_header", "rich": [["Étape 1. Récolter"]]},
+    {
+      "type": "text",
+      "rich": [["Mener un travail d’enquête et de récolte de connaissances liées à la gastronomie vietnamienne en allant à la rencontre de Vietnamiens."]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-gout-du-vietnam/p03-3.webp", "width": 1124, "height": 757}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-gout-du-vietnam/p03-6.webp", "width": 1124, "height": 757}
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "sub_header", "rich": [["Étape 2. Archiver"]]},
+    {"type": "text", "rich": [["Répertorier, donner à voir et conserver les savoirs récoltés."]]},
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-gout-du-vietnam/p03-1.webp", "width": 947, "height": 637}
+            },
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-gout-du-vietnam/p03-4.webp", "width": 947, "height": 637}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-gout-du-vietnam/p03-2.webp", "width": 956, "height": 646}
+            },
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-gout-du-vietnam/p03-5.webp", "width": 956, "height": 646}
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "sub_header", "rich": [["Étape 3. Transmettre"]]},
+    {
+      "type": "text",
+      "rich": [["Créer un "], ["atelier de médiation et de dégustation nomade", [["b"]]], [", facile à transporter et à déployer, autour de la découverte de la gastronomie vietnamienne pour des événements et/ou festivals."]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.28,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-gout-du-vietnam/p04-1.webp", "width": 697, "height": 997}
+            },
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-gout-du-vietnam/p04-4.webp", "width": 613, "height": 838}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.38,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-gout-du-vietnam/p04-2.webp", "width": 1480, "height": 1942}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.34,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-gout-du-vietnam/p04-5.webp", "width": 1565, "height": 1648}
+            },
+            {
+              "type": "image",
+              "caption": [["Porcelaine papier façonnée à la main."]],
+              "media": {"src": "/projets/le-gout-du-vietnam/p04-6.webp", "width": 637, "height": 651}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "rich": [["La première partie de l’atelier permet la découverte des caractéristiques de la gastronomie vietnamienne grâce à une "], ["carte interactive et un jeu sensoriel", [["b"]]], ["."]]
+    },
+    {
+      "type": "image",
+      "media": {"src": "/projets/le-gout-du-vietnam/p04-3.webp", "width": 1387, "height": 848}
+    },
+    {
+      "type": "text",
+      "rich": [["La deuxième partie de l’atelier consiste en la préparation et la dégustation d’un plat caractéristique du Vietnam."]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-gout-du-vietnam/p05-4.webp", "width": 929, "height": 1404}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "caption": [["Création d’un plateau tournant."]],
+              "media": {"src": "/projets/le-gout-du-vietnam/p05-5.webp", "width": 791, "height": 986}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.3333333333333333,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-gout-du-vietnam/p05-3.webp", "width": 723, "height": 782}
+            },
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-gout-du-vietnam/p05-6.webp", "width": 904, "height": 782}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "rich": [["Participation et mise en œuvre de l’atelier au festival Made In Asia, édition 2025 à Toulouse.", [["b"]]]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.55,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-gout-du-vietnam/p05-1.webp", "width": 1118, "height": 1547}
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.45,
+          "children": [
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-gout-du-vietnam/p05-7.webp", "width": 1122, "height": 763}
+            },
+            {
+              "type": "image",
+              "media": {"src": "/projets/le-gout-du-vietnam/p05-8.webp", "width": 662, "height": 954}
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "divider"},
+    {"type": "sub_header", "rich": [["Le mémoire"]]},
+    {
+      "type": "text",
+      "rich": [["Ce mémoire est né d’une envie profonde, celle de me reconnecter avec mes origines vietnamiennes au travers du design. En explorant l’histoire du Vietnam mais aussi l’histoire de sa gastronomie, j’ai découvert un patrimoine vivant et riche où chaque saveur et chaque geste raconte une histoire et un savoir.\nLe design s’est révélé comme un outil essentiel pour tisser des liens entre le tangible et l’intangible. À travers cet écrit, je cherche à montrer comment l’objet, le geste et l’expérience multisensorielle peuvent devenir des entrées de la transmission culturelle.\nC’est un voyage entre transmission, histoire et gastronomie, au fils duquel le design est convoqué et interrogé pour partager la culture vietnamienne."]]
+    },
+    {"type": "text"},
+    {
+      "type": "image",
+      "display": {"width": 6400, "pageWidth": true},
+      "media": {
+        "src": "/projets/le-gout-du-vietnam/gravity-hardcover-book-scene-free-psd-mockup.jpg",
+        "width": 2400,
+        "height": 1875
+      }
+    },
+    {
+      "type": "image",
+      "display": {"width": 3000, "pageWidth": true},
+      "media": {"src": "/projets/le-gout-du-vietnam/free-book-mockup-8.jpg", "width": 2400, "height": 1800}
+    },
+    {"type": "divider"},
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5000000000000001,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 336, "height": 320, "pageWidth": true},
+              "media": {
+                "src": "/projets/le-gout-du-vietnam/e04038ca-4a0f-401c-aa55-a31cf7936617.png",
+                "width": 2000,
+                "height": 2399
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 384, "height": 320, "pageWidth": true},
+              "media": {
+                "src": "/projets/le-gout-du-vietnam/31a21e5a-8913-4407-a888-2751563c6246.png",
+                "width": 1976,
+                "height": 2400
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 384, "height": 320, "pageWidth": true},
+              "media": {
+                "src": "/projets/le-gout-du-vietnam/85da61f6-3643-461a-afa2-d33bd3ff3b04.png",
+                "width": 1808,
+                "height": 1648
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5000000000000001,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 351.45524437122464, "height": 320, "pageWidth": true},
+              "media": {
+                "src": "/projets/le-gout-du-vietnam/801620df-626f-46bb-bb62-fbbcf57d2276.png",
+                "width": 2000,
+                "height": 1821
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "color": "blue_background",
+      "icon": "💡",
+      "children": [{"type": "text", "rich": [["Shooting photo avec des plats vietnamien"]]}]
+    },
+    {"type": "text"}
+  ]
+}

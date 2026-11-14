@@ -1,0 +1,94 @@
+{
+  "slug": "respire-2022",
+  "name": "Respire",
+  "year": 2022,
+  "cover": {"src": "/projets/respire-2022/capture-dcran-2022-10-06-16-00-34.png", "width": 2400, "height": 1360},
+  "coverFocus": 0.5,
+  "links": [{"label": "Voir la vidéo", "href": "https://youtu.be/a4MDU1k1SAY"}],
+  "blocks": [
+    {
+      "type": "text",
+      "rich": [["Projet contemporain sur les gestes du quotidien et le mouvement. Cette première vidéo met en valeurs les gestes inconscients de notre corps en les amplifiant."]]
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 384},
+              "media": {
+                "src": "/projets/respire-2022/capture-dcran-2022-09-23-14-09-18.png",
+                "width": 2400,
+                "height": 1348
+              }
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.49999999999999994,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 384},
+              "media": {
+                "src": "/projets/respire-2022/capture-dcran-2022-09-23-14-09-39.png",
+                "width": 2400,
+                "height": 1348
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "display": {"width": 3350, "pageWidth": true},
+      "media": {"src": "/projets/respire-2022/capture-dcran-2022-09-23-14-09-56.png", "width": 2400, "height": 1348}
+    },
+    {
+      "type": "column_list",
+      "children": [
+        {
+          "type": "column",
+          "ratio": 0.5,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 336},
+              "media": {
+                "src": "/projets/respire-2022/capture-dcran-2022-10-06-16-00-34-2.png",
+                "width": 2400,
+                "height": 1360
+              }
+            },
+            {"type": "text"}
+          ]
+        },
+        {
+          "type": "column",
+          "ratio": 0.5000000000000001,
+          "children": [
+            {
+              "type": "image",
+              "display": {"width": 336},
+              "media": {
+                "src": "/projets/respire-2022/capture-dcran-2022-09-23-14-10-14.png",
+                "width": 2400,
+                "height": 1348
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {"type": "divider"},
+    {"type": "sub_header", "rich": [["Vidéo réalisée pour le projet"]]},
+    {"type": "text"},
+    {"type": "video", "display": {"width": 854, "pageWidth": true}, "youtube": "a4MDU1k1SAY"}
+  ]
+}
