@@ -2,7 +2,7 @@
   "slug": "entre-ombre-et-lumiere-2023",
   "name": "Entre Ombre et Lumière",
   "year": 2023,
-  "cover": {"src": "/projets/entre-ombre-et-lumiere-2023/img-0745.jpg", "width": 2400, "height": 1800},
+  "cover": {"src": "/projets/entre-ombre-et-lumiere-2023/img-0745.jpg", "width": 1800, "height": 2400},
   "coverFocus": 0.292,
   "blocks": [
     {
@@ -153,7 +153,7 @@
     {
       "type": "image",
       "display": {"width": 480},
-      "media": {"src": "/projets/entre-ombre-et-lumiere-2023/img-2745.jpg", "width": 2400, "height": 1800}
+      "media": {"src": "/projets/entre-ombre-et-lumiere-2023/img-2745.jpg", "width": 1800, "height": 2400}
     },
     {
       "type": "callout",

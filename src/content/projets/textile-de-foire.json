@@ -76,7 +76,7 @@
             {
               "type": "image",
               "display": {"width": 336},
-              "media": {"src": "/projets/textile-de-foire/img-8963.jpg", "width": 2400, "height": 1800}
+              "media": {"src": "/projets/textile-de-foire/img-8963.jpg", "width": 1800, "height": 2400}
             }
           ]
         },
@@ -86,7 +86,7 @@
           "children": [
             {
               "type": "image",
-              "media": {"src": "/projets/textile-de-foire/img-8964.jpg", "width": 2400, "height": 1800}
+              "media": {"src": "/projets/textile-de-foire/img-8964.jpg", "width": 1800, "height": 2400}
             }
           ]
         },

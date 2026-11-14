@@ -7,6 +7,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
+    "check": "node scripts/check-content.mjs",
+    "verify": "npm run check && npm run lint && npm run build",
+    "new-project": "node scripts/new-project.mjs",
+    "add-media": "node scripts/add-media.mjs",
     "build:static": "STATIC_EXPORT=1 next build && node scripts/export-static.mjs"
   },
   "dependencies": {

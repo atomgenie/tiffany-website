@@ -69,7 +69,7 @@
             {
               "type": "image",
               "display": {"width": 384},
-              "media": {"src": "/projets/trainworld/img-5336.jpg", "width": 2400, "height": 1800}
+              "media": {"src": "/projets/trainworld/img-5336.jpg", "width": 1800, "height": 2400}
             }
           ]
         }
@@ -149,7 +149,7 @@
             {
               "type": "image",
               "display": {"width": 432, "pageWidth": true},
-              "media": {"src": "/projets/trainworld/img-5334.jpg", "width": 2400, "height": 1800}
+              "media": {"src": "/projets/trainworld/img-5334.jpg", "width": 1800, "height": 2400}
             }
           ]
         },
@@ -263,7 +263,7 @@
             {
               "type": "image",
               "display": {"width": 288},
-              "media": {"src": "/projets/trainworld/img-7170.jpeg", "width": 2400, "height": 1800}
+              "media": {"src": "/projets/trainworld/img-7170.jpeg", "width": 1800, "height": 2400}
             }
           ]
         },
@@ -274,7 +274,7 @@
             {
               "type": "image",
               "display": {"width": 288},
-              "media": {"src": "/projets/trainworld/img-9347.jpeg", "width": 2400, "height": 1800}
+              "media": {"src": "/projets/trainworld/img-9347.jpeg", "width": 1800, "height": 2400}
             }
           ]
         },
@@ -285,7 +285,7 @@
             {
               "type": "image",
               "display": {"width": 288},
-              "media": {"src": "/projets/trainworld/img-9346.jpeg", "width": 2400, "height": 1800}
+              "media": {"src": "/projets/trainworld/img-9346.jpeg", "width": 1800, "height": 2400}
             }
           ]
         },
@@ -296,7 +296,7 @@
             {
               "type": "image",
               "display": {"width": 205.984375, "pageWidth": true},
-              "media": {"src": "/projets/trainworld/img-9426.jpeg", "width": 2400, "height": 1800}
+              "media": {"src": "/projets/trainworld/img-9426.jpeg", "width": 1800, "height": 2400}
             }
           ]
         }
@@ -342,7 +342,7 @@
             {
               "type": "image",
               "display": {"width": 288},
-              "media": {"src": "/projets/trainworld/img-8612.jpeg", "width": 2400, "height": 1800}
+              "media": {"src": "/projets/trainworld/img-8612.jpeg", "width": 1800, "height": 2400}
             }
           ]
         },
@@ -353,7 +353,7 @@
             {
               "type": "image",
               "display": {"width": 288},
-              "media": {"src": "/projets/trainworld/img-8590.jpeg", "width": 2400, "height": 1800}
+              "media": {"src": "/projets/trainworld/img-8590.jpeg", "width": 1800, "height": 2400}
             }
           ]
         },
@@ -364,7 +364,7 @@
             {
               "type": "image",
               "display": {"width": 288},
-              "media": {"src": "/projets/trainworld/img-8604.jpeg", "width": 2400, "height": 1800}
+              "media": {"src": "/projets/trainworld/img-8604.jpeg", "width": 1800, "height": 2400}
             }
           ]
         }

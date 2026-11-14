@@ -254,7 +254,7 @@
     {
       "type": "image",
       "display": {"width": 432},
-      "media": {"src": "/projets/museum/img-3431.jpeg", "width": 2400, "height": 1800}
+      "media": {"src": "/projets/museum/img-3431.jpeg", "width": 1800, "height": 2400}
     },
     {"type": "divider"},
     {"type": "text", "rich": [["Présentation du projet au Museum de Toulouse"]]},

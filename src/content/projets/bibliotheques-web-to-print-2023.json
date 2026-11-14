@@ -67,7 +67,7 @@
             {
               "type": "image",
               "display": {"width": 192, "pageWidth": true, "align": "center"},
-              "media": {"src": "/projets/bibliotheques-web-to-print-2023/img-0605.jpg", "width": 2400, "height": 1800}
+              "media": {"src": "/projets/bibliotheques-web-to-print-2023/img-0605.jpg", "width": 1800, "height": 2400}
             }
           ]
         },
@@ -78,7 +78,7 @@
             {
               "type": "image",
               "display": {"width": 240, "pageWidth": true},
-              "media": {"src": "/projets/bibliotheques-web-to-print-2023/img-0625.jpeg", "width": 2400, "height": 1800}
+              "media": {"src": "/projets/bibliotheques-web-to-print-2023/img-0625.jpeg", "width": 1800, "height": 2400}
             }
           ]
         },
@@ -116,7 +116,7 @@
             {
               "type": "image",
               "display": {"width": 108, "pageWidth": true},
-              "media": {"src": "/projets/bibliotheques-web-to-print-2023/img-0653.jpg", "width": 2400, "height": 1800}
+              "media": {"src": "/projets/bibliotheques-web-to-print-2023/img-0653.jpg", "width": 1800, "height": 2400}
             }
           ]
         },

@@ -10,7 +10,7 @@ export const intro = "Bonjour, je suis Tiffany Tran, designer d’objets spécia
 
 /** Cut-out portrait (À propos, favicon) and the default Open Graph image, in public/images/. */
 export const portrait: Media = { src: "/images/portrait.png", width: 1800, height: 2400 };
-export const shareImage: Media = { src: "/images/cover.jpg", width: 2400, height: 1800 };
+export const shareImage: Media = { src: "/images/cover.jpg", width: 1800, height: 2400 };
 
 /** Latest CV and PDF portfolio, in public/documents/. When Tiffany sends new versions, swap the files and these entries. */
 export const documents = {

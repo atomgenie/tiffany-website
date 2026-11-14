@@ -9,7 +9,15 @@ All content is static and lives in this repo:
 - `public/projets/<slug>/` holds each project's media.
 - `src/lib/site.ts` holds the intro, the contacts and the links to the CV and PDF portfolio (`public/documents/`).
 
-See `.claude/skills/edit-content/SKILL.md` for the content format and how to add a project or images.
+See `.claude/skills/edit-content/SKILL.md` for the content format and step-by-step recipes (add a project, images, a new CV…), and `AGENTS.md` for how the code works.
+
+Helpers:
+
+```bash
+npm run new-project -- <slug> "Nom du projet"   # create and register a project
+npm run add-media -- <slug> <files>…          # convert/resize/copy media, print the JSON blocks to paste
+npm run check                                 # validate all content, with a fix for each problem
+```
 
 Routes:
 
@@ -27,7 +35,7 @@ Images, videos and PDFs under `public/` are stored with [Git LFS](https://git-lf
 ```bash
 npm install
 npm run dev                       # http://localhost:3000
-npm run lint && npm run build     # before committing
+npm run verify                    # check + lint + build, before committing
 ```
 
 ## Self-hosting
